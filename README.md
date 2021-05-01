@@ -4,7 +4,6 @@
 
 Basic tutorial for the EPA Clean Air Markets Division to go through the process of creating a small web app, in the problem space of AMPD, with automated tests and deployment to cloud.gov.
 
-Currently, `hello-ampd` is a very simple API backend, providing a "Hello World" style response to HTTP GET calls.
 
 ## Development
 
@@ -22,10 +21,7 @@ This project uses [Docker][2] containers to provide a self-contained build and t
 
 Clone the repository and `cd` into it:
 
-```shell
-git clone https://github.com/18F/hello-ampd
-cd hello-ampd
-```
+
 
 #### Tests
 
